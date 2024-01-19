@@ -66,8 +66,7 @@ The JS code above can exist the nav menu for mobile screens by clicking outside 
 I will love to be able to do more cool and interesting things with Javascript, so i will do well to learn more and most importantly practice.
 
 ### Useful resources
--This time i would really say Youtube was very helpful there are more experienced developers there ,I can't remember specifically the youtube channels i visited but just typing out a problem and seeing a video adressing that issue was so helpful.
-
+- This time i would really say Youtube was very helpful there are more experienced developers there ,I can't remember specifically the youtube channels i visited but just typing out a problem and seeing a video adressing that issue was so helpful.
 - I would forever be grateful for stackoverflow,it was also very helpful.
 
 
