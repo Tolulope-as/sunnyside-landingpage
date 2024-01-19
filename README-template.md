@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: (https://github.com/Tolulope-as/sunnyside-landingpage.git)
 - Live Site URL: (https://tolu-sunnyside-landingpage.vercel.app/)
 
 ## My process
