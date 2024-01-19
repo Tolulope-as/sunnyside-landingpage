@@ -30,7 +30,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://tolu-sunnyside-landingpage.vercel.app/)
+- Live Site URL: (https://tolu-sunnyside-landingpage.vercel.app/)
 
 ## My process
 
