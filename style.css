@@ -12,7 +12,7 @@ body{
 .home{
 background: url('images/desktop/image-header.jpg') top center;
 width: 100%;
-min-height: 850px; 
+min-height: 830px; 
 background-size: cover;
 background-position: top center;
 }
