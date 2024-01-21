@@ -12,7 +12,7 @@ body{
 .home{
 background: url('images/desktop/image-header.jpg') top center;
 width: 100%;
-min-height: 820px; 
+min-height: 800px; 
 background-size: cover;
 background-position: top center;
 }
@@ -269,7 +269,7 @@ header{
     /* Testimonial  grid section */
 
 .testimonial-section{
-    min-height: 640px;
+    min-height: 770px;
     text-align: center;
     display: grid;
     place-content: center;
@@ -365,12 +365,12 @@ header{
     background: hsl(168, 50%, 70%);
     display: grid;
     place-items: center;
-    padding-block: 55px;
+    padding-block: 70px;
 
   }
   .footer-heading{
     margin: 0;
-    margin-bottom: 25px;
+    margin-bottom: 55px;
     font-size: 25px;
     font-weight:800;
     color:   hsl(167, 40%, 29%);
@@ -382,7 +382,7 @@ header{
     list-style: none;
     color: hsl(168, 30%, 41%);
     font-family: 'Barlow','sans-serif';
-    margin-bottom: 64px;
+    margin-bottom: 85px;
 }
 .footer-links p{
     margin: 0;
